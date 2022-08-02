@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Richard!</h1>
 <h3 align="center">A full-stack developer with a passion for IT</h3>
 
-- 🔭 I’m currently working on [SkyView](https://github.com/Revature-Capstone-1350/e-commerce-backend/)
+- 🔭 I’m currently working on [AurMatey](https://github.com/FDDTheLucario/AurMatey)
 
-- 🌱 I’m currently learning **react redux, jest**
+- 🌱 I’m currently learning **Kotlin**
 
 - 💬 Ask me about **arch linux, shell scripting**
 
