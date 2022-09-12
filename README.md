@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Bank Backend](https://github.com/FDDTheLucario/bank-backend)
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **6502 ASM**
 
 - 💬 Ask me about **arch linux, shell scripting**
 
