@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Richard!</h1>
 <h3 align="center">A full-stack developer with a passion for IT</h3>
 
-- 🔭 I’m currently working on [Bank Backend](https://github.com/FDDTheLucario/bank-backend)
+- 🔭 I’m currently working on [Salvē, Latin!](https://github.com/FDDTheLucario/salve-latin)
 
 - 🌱 I’m currently learning **6502 ASM**
 
